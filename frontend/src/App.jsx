@@ -1,5 +1,3 @@
-// App.js
-import React from 'react';
 import './App.css';
 import LoginButton from './LoginButton';
 import InvoiceList from './InvoiceList';
